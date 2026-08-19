@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/app.db
+data/browser_profile/*
+data/logs/*
+!data/browser_profile/.gitkeep
+!data/logs/.gitkeep
+frontend/node_modules/
+frontend/dist/
+backend/.env
